@@ -18,6 +18,7 @@ Post links to your homework assignment here:
 + Serena M Parr
 + Xiqiao Zhou
 + Jonathan James Gallagher
++ William Quest Kennelly
 
 ## Week 2
 + Alexia Kyriakopoulou
@@ -37,6 +38,7 @@ Post links to your homework assignment here:
 + Serena M Parr
 + Xiqiao Zhou
 + Jonathan James Gallagher
++ William Quest Kennelly
 
 ## Week 3
 + Alexia Kyriakopoulou
@@ -56,10 +58,13 @@ Post links to your homework assignment here:
 + Serena M Parr
 + Xiqiao Zhou
 + Jonathan James Gallagher
++ William Quest Kennelly
 
 ## Week 4
 
+
 ## Week 5
+
 
 ## Week 6
 
